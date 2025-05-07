@@ -14,4 +14,5 @@ function findMajorityElement(nums) {
   
   
 }
+console.log(findMajorityElement([1, 2, 2, 2, 2, 3, 4]));
 

@@ -18,3 +18,4 @@ function findSingleNumber(nums) {
   }
 }
 
+console.log(findSingleNumber([1, 2, 4,2,1]))

@@ -10,4 +10,4 @@ function containsDuplicate(nums) {
   
   return false;
 }
-
+console.log(containsDuplicate([1, 2, 2, 2]));

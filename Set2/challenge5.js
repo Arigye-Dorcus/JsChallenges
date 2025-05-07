@@ -25,3 +25,4 @@ function longestCommonPrefix(strs) {
 
   return prefix;
 }
+console.log(longestCommonPrefix(["floor" ,"flower"]))
